@@ -12,13 +12,13 @@ function Inicio() {
           <a href="https://github.com/CodeByAxel" target="_blank" rel="noopener noreferrer">
             <FaGithub />
           </a>
-          <a href="https://x.com/TU_USUARIO" target="_blank" rel="noopener noreferrer">
+          <a href="https://x.com/CodeByAxel" target="_blank" rel="noopener noreferrer">
             <FaXTwitter />
           </a>
-          <a href="https://www.linkedin.com/in/TU_USUARIO/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/axel-ortiz-4a2240194/" target="_blank" rel="noopener noreferrer">
             <FaLinkedin />
           </a>
-          <a href="https://wa.me/34TUNUMERO" target="_blank" rel="noopener noreferrer">
+          <a href="https://wa.me/34722728114" target="_blank" rel="noopener noreferrer">
             <FaWhatsapp />
           </a>
         </div>
