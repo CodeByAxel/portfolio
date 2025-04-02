@@ -30,7 +30,7 @@
     color: white;
     font-size: 5rem;
     min-width: 100px;
-    transition: all ease 0.1s;
+    transition: all ease 1s;
   }
   .skill:hover{
     color: rgb(64, 255, 47);
