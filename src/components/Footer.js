@@ -1,10 +1,15 @@
 import React from "react";
+import "./Footer.css";
+import { FaArrowUp } from "react-icons/fa";
 
 function Footer() {
   return (
-    <section>
-      <h2>Footer</h2>
-    </section>
+    <footer className="footer">
+      <a href="#inicio" className="boton-arriba" title="Volver arriba">
+  <FaArrowUp />
+</a>
+  <p>© 2025 CodeByAxel · Disponible para colaboraciones · 📬 business@codebyaxel.dev</p>
+</footer>
   );
 }
 

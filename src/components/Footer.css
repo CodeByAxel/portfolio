@@ -1,0 +1,23 @@
+p{
+    color: #fff;
+    margin: 0 0 50px 0;
+}
+.boton-arriba {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    
+    color: #ffffff;
+    padding: 12px;
+    border-radius: 50%;
+    font-size: 1.5rem;
+    z-index: 1000;
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    
+  }
+  
+  .boton-arriba:hover {
+    
+    transform: translateY(-5px);
+  }
