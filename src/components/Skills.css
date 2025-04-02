@@ -12,9 +12,8 @@
   
   .skills-track {
     display: flex;
-    width: 100%;
-    white-space: nowrap;
-    animation: scroll 20s linear infinite;
+    width: max-content;
+    animation: scroll 25s linear infinite;
   }
   
   .skills-slide {
@@ -47,4 +46,15 @@
       transform: translateX(-50%);
     }
   }
+  @media (max-width: 768px) {
+    .skills {
+        padding: 0 5%;
+        mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
+        -webkit-mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
+      }
+      .skills-track {
+        animation-duration: 10s;
+      }
   
+    
+  }

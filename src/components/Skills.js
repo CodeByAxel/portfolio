@@ -67,8 +67,36 @@ function Skills() {
             <span>JavaScript</span>
           </div>
           <div className="skill">
+            <SiPython  />
+            <span>Python</span>
+          </div>
+          <div className="skill">
+            <SiTypescript />
+            <span>Typescript</span>
+          </div>
+          <div className="skill">
             <FaReact />
             <span>React</span>
+          </div>
+          <div className="skill">
+            <SiNodedotjs />
+            <span>Node.js</span>
+          </div>
+          <div className="skill">
+            <FaAngular />
+            <span>Angular</span>
+          </div>
+          <div className="skill">
+            <SiMysql />
+            <span>MySQL</span>
+          </div>
+          <div className="skill">
+            <SiTailwindcss />
+            <span>Tailwind</span>
+          </div>
+          <div className="skill">
+            <FaGitAlt />
+            <span>Git</span>
           </div>
         </div>
       </div>

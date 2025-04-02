@@ -41,7 +41,7 @@
       flex-direction: column;
       position: relative;
       
-      padding: 20px;
+      padding: 0px;
       gap: 15px;
     }
   
@@ -54,6 +54,12 @@
     }
   
     .nav-links li a {
-      font-size: 1.2rem;
+      font-size: 1.7rem;
     }
+    .logo {
+        margin-top: 20px;
+        font-size: 3rem;
+        
+        
+      }
   }
