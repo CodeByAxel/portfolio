@@ -36,3 +36,24 @@
   .nav-links li a:hover {
     color: #61dafb;
   }
+  @media (max-width: 768px) {
+    .header {
+      flex-direction: column;
+      position: relative;
+      
+      padding: 20px;
+      gap: 15px;
+    }
+  
+    .nav-links {
+      flex-direction: column;
+      gap: 10px;
+      padding: 0;
+      
+      
+    }
+  
+    .nav-links li a {
+      font-size: 1.2rem;
+    }
+  }
