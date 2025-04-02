@@ -35,3 +35,9 @@
   .iconos a:hover {
     color: #61dafb;
   }
+
+  @media (max-width: 768px) {
+    .inicio{
+        height: 54vh;
+    }
+  }
