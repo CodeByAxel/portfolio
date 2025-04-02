@@ -2,7 +2,7 @@
     position: fixed;
     top: 0;
     width: 100%;
-    background-color: #1e1e1e;
+    background-color: #000000b2;
     color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
@@ -34,7 +34,7 @@
   }
   
   .nav-links li a:hover {
-    color: #61dafb;
+    color: #61fb75;
   }
   @media (max-width: 768px) {
     .header {

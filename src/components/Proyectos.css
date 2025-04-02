@@ -1,6 +1,6 @@
 .proyectos {
     padding: 100px 20px;
-    background: linear-gradient(to right, #1e1e1e, #2d2d2d);
+    background: linear-gradient(to right, #00000000, #000000c0);
     text-align: center;
     
   }
@@ -24,7 +24,7 @@
     
     padding: 25px;
     border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 12px rgba(57, 197, 14, 0.438);
     text-align: left;
     display: flex;
     flex-direction: column;
@@ -47,7 +47,7 @@
   .proyecto a {
     margin-top: auto;
     padding: 10px 15px;
-    background-color: #414141;
+    background-color: #33ff0023;
     color: #fff;
     text-decoration: none;
     font-weight: bold;
@@ -56,7 +56,7 @@
   }
   
   .proyecto a:hover {
-    background-color: #3a3a3a;
+    background-color: #33ff0048;
     transform: translateY(-5px);
   }
   

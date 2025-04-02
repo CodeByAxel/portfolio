@@ -1,7 +1,7 @@
 .sobremi {
     padding: 100px 20px;
     background-color: #f4f4f4;
-    background: linear-gradient(to right, #1e1e1e, #2d2d2d);
+    background: linear-gradient(to right, #0000009d, #2d2d2d00);
     text-align: center;
     
   }
@@ -68,12 +68,15 @@
   
   .interes {
     width: 72px;
-    background-color: #f0f0f000;
+    background-color: #33ff0023;
     color: #fff;
     border-radius: 8px;
     padding: 10px;
     text-align: center;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 6px rgba(57, 197, 14, 0.438);
+  }
+  .interes p {
+    margin: 0;
   }
   
   .icono-interes {

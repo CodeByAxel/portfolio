@@ -1,6 +1,6 @@
 .inicio {
     height: 89vh;
-    background: linear-gradient(to right, #1e1e1e, #2d2d2d);
+    
     color: white;
     display: flex;
     justify-content: center;
@@ -29,12 +29,15 @@
   
   .iconos a {
     color: white;
-    transition: color 0.3s ease;
+    transition: all 0.3s ease;
   }
   
   .iconos a:hover {
-    color: #61dafb;
+    color: #61fb69;
+    transform: translateY(-5px);
   }
+  
+
 
   @media (max-width: 768px) {
     .inicio{

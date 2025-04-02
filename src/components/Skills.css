@@ -1,12 +1,12 @@
 .skills {
-    background: linear-gradient(to right, #1e1e1ec2, #2d2d2dc5);
+    background: linear-gradient(to right, #1e1e1e00, #2d2d2d00);
     
     padding: 0px 0;
     margin: 0 20%;
     overflow: hidden;
     
-    mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
-    -webkit-mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+    mask-image: linear-gradient(to right, transparent, rgba(0, 0, 0, 0) 10%, rgb(0, 0, 0) 90%, transparent);
+    -webkit-mask-image: linear-gradient(to right, transparent, rgb(0, 0, 0) 10%, rgb(0, 0, 0) 90%, transparent);
   }
   
   
@@ -29,6 +29,11 @@
     color: white;
     font-size: 5rem;
     min-width: 100px;
+    transition: all ease 1s;
+  }
+  .skill:hover{
+    color: rgb(64, 255, 47);
+    font-size: 6rem;
   }
   
   .skill span {
@@ -53,7 +58,7 @@
         -webkit-mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
       }
       .skills-track {
-        animation-duration: 10s;
+        animation-duration: 15s;
       }
   
     
