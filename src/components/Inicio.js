@@ -6,7 +6,7 @@ function Inicio() {
   return (
     <section className="inicio" id="inicio">
       <div className="contenido">
-        <h1>CodeByAxel</h1>
+        <h1>Axel Ortiz</h1>
         <p>Full-Stack Junior</p>
         <div className="iconos">
           <a href="https://github.com/CodeByAxel" target="_blank" rel="noopener noreferrer">

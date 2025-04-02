@@ -1,0 +1,50 @@
+.skills {
+    background: linear-gradient(to right, #1e1e1ec2, #2d2d2dc5);
+    
+    padding: 0px 0;
+    margin: 0 20%;
+    overflow: hidden;
+    
+    mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+    -webkit-mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+  }
+  
+  
+  .skills-track {
+    display: flex;
+    width: 100%;
+    white-space: nowrap;
+    animation: scroll 20s linear infinite;
+  }
+  
+  .skills-slide {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+  }
+  
+  .skill {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-size: 5rem;
+    min-width: 100px;
+  }
+  
+  .skill span {
+    margin-top: 8px;
+    font-size: 1.2rem;
+    font-family: 'VT323', monospace;
+  }
+  
+  @keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+  
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+  

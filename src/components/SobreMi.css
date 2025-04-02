@@ -1,0 +1,83 @@
+.sobremi {
+    padding: 100px 20px;
+    background-color: #f4f4f4;
+    background: linear-gradient(to right, #1e1e1e, #2d2d2d);
+    text-align: center;
+    
+  }
+  
+  .sobremi h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: white;
+    font-family: 'VT323', monospace;
+  }
+  
+  .sobremi .intro p {
+    max-width: 800px;
+    margin: 0 auto 40px auto;
+    font-size: 1.5rem;
+    line-height: 1.6;
+    color: white;
+  }
+  
+  .contenedores {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+  }
+  
+  .contenedor {
+    background-color: rgba(255, 255, 255, 0);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: left;
+  }
+  
+  .contenedor h3 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+    font-family: 'VT323', monospace;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .contenedor ul {
+    list-style: none;
+    color: #fff;
+    padding: 0;
+    margin-top: 30px;
+    
+  }
+  
+  .contenedor li {
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+  }
+  .intereses {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 15px;
+  }
+  
+  .interes {
+    width: 72px;
+    background-color: #f0f0f000;
+    color: #fff;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .icono-interes {
+    font-size: 2rem;
+    
+    color: #fff;
+  }
