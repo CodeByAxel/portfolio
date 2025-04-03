@@ -22,7 +22,7 @@ function SobreMi() {
         <div className="contenedor">
           <h3>Datos personales</h3>
           <ul>
-            <li><strong>Cumpleaños:</strong> 27 de mayo del 2021</li>
+            <li><strong>fecha de nacimiento:</strong> 27 de mayo del 2001</li>
             <li><strong>Teléfono:</strong> +34 722 728 114</li>
             <li><strong>Email:</strong> axelortiz.mesa@gmail.com</li>
             <li><strong>Dirección:</strong> Madrid, España</li>

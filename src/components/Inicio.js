@@ -7,7 +7,7 @@ function Inicio() {
     <section className="inicio" id="inicio">
       <div className="contenido">
         <h1>Axel Ortiz</h1>
-        <p>Full-Stack Junior</p>
+        <p>Full-Stack Junior enfocado en la Ciberseguridad</p>
         <div className="iconos">
           <a href="https://github.com/CodeByAxel" target="_blank" rel="noopener noreferrer">
             <FaGithub />

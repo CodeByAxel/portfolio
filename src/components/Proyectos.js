@@ -28,7 +28,7 @@ function Proyectos() {
         {/* Puedes añadir más proyectos aquí */}
         <div className="proyecto">
           <h3>Proyecto 3</h3>
-          <p>Descripción corta del proyecto número 2. Puede ser una app, landing, juego, etc.</p>
+          <p>Descripción corta del proyecto número 3. Puede ser una app, landing, juego, etc.</p>
           <span>Tecnologías: React, Tailwind, Firebase</span>
           <a href="https://codebyaxel.dev/proyecto3" target="_blank" rel="noopener noreferrer">
             Ver proyecto
@@ -36,7 +36,8 @@ function Proyectos() {
         </div>
         <div className="proyecto">
           <h3>Proyecto 4</h3>
-          <p>Descripción corta del proyecto número 2. Puede ser una app, landing, juego, etc.</p>
+          <p>Descripción corta del proyecto número 4. Puede ser una app, landing, juego, etc.
+          </p>
           <span>Tecnologías: React, Tailwind, Firebase</span>
           <a href="https://codebyaxel.dev/proyecto4" target="_blank" rel="noopener noreferrer">
             Ver proyecto
@@ -44,7 +45,7 @@ function Proyectos() {
         </div>
         <div className="proyecto">
           <h3>Proyecto 5</h3>
-          <p>Descripción corta del proyecto número 2. Puede ser una app, landing, juego, etc.</p>
+          <p>Descripción corta del proyecto número 5. Puede ser una app, landing, juego, etc.</p>
           <span>Tecnologías: React, Tailwind, Firebase</span>
           <a href="https://codebyaxel.dev/proyecto5" target="_blank" rel="noopener noreferrer">
             Ver proyecto
@@ -52,7 +53,7 @@ function Proyectos() {
         </div>
         <div className="proyecto">
           <h3>Proyecto 6</h3>
-          <p>Descripción corta del proyecto número 2. Puede ser una app, landing, juego, etc.</p>
+          <p>Descripción corta del proyecto número 6. Puede ser una app, landing, juego, etc.</p>
           <span>Tecnologías: React, Tailwind, Firebase</span>
           <a href="https://codebyaxel.dev/proyecto6" target="_blank" rel="noopener noreferrer">
             Ver proyecto
