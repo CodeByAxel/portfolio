@@ -1,6 +1,8 @@
 import React from "react";
 import "./SobreMi.css";
-import { FaCode, FaHeadphones, FaDumbbell, FaBook } from "react-icons/fa6";
+import { FaCode, FaHeadphones, FaDumbbell, FaBook} from "react-icons/fa6";
+import { MdLocalMovies } from "react-icons/md";
+import { GiPc } from "react-icons/gi";
 
 
 
@@ -22,7 +24,7 @@ function SobreMi() {
         <div className="contenedor">
           <h3>Datos personales</h3>
           <ul>
-            <li><strong>fecha de nacimiento:</strong> 27 de mayo del 2001</li>
+            
             <li><strong>Teléfono:</strong> +34 722 728 114</li>
             <li><strong>Email:</strong> axelortiz.mesa@gmail.com</li>
             <li><strong>Dirección:</strong> Madrid, España</li>
@@ -45,12 +47,16 @@ function SobreMi() {
       <p>Escuchar música</p>
     </div>
     <div className="interes">
-      <FaDumbbell className="icono-interes" />
-      <p>Hacer ejercicio</p>
+      <GiPc className="icono-interes" />
+      <p>Montar ordenadores</p>
     </div>
     <div className="interes">
       <FaBook className="icono-interes" />
       <p>Leer</p>
+    </div>
+    <div className="interes">
+      <MdLocalMovies className="icono-interes" />
+      <p>Ver peliculas</p>
     </div>
   </div>
 </div>

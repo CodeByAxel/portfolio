@@ -14,12 +14,13 @@
     display: flex;
     width: max-content;
     
-    animation: scroll 25s linear infinite;
+    animation: scroll 15s linear infinite;
   }
   
   .skills-slide {
     display: flex;
     gap: 30px;
+    
     align-items: center;
   }
   
@@ -29,8 +30,9 @@
     align-items: center;
     color: white;
     font-size: 5rem;
+    
     min-width: 100px;
-    transition: all ease 1s;
+    transition: all ease .3s;
   }
   .skill:hover{
     color: rgb(64, 255, 47);
