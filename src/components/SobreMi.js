@@ -51,7 +51,7 @@ function SobreMi() {
       <p>Montar ordenadores</p>
     </div>
     <div className="interes">
-      <FaBook className="icono-interes" />
+      <FaBook className="icono-interes Fabook" />
       <p>Leer</p>
     </div>
     <div className="interes">
