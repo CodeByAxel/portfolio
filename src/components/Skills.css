@@ -20,8 +20,9 @@
   .skills-slide {
     display: flex;
     gap: 30px;
-    
+    max-height: 100px;
     align-items: center;
+    margin: 12px 0 12px 0;
   }
   
   .skill {
