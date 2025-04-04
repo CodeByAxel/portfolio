@@ -2,6 +2,7 @@ import React from "react";
 import "./Footer.css";
 import { FaArrowUp } from "react-icons/fa";
 
+
 function Footer() {
   return (
     <footer className="footer">
