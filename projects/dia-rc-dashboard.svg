@@ -4,7 +4,7 @@
   <rect x="110" y="130" width="980" height="90" rx="12" fill="#0d2024"/>
   <rect x="110" y="250" width="470" height="320" rx="12" fill="#0d2024"/>
   <rect x="620" y="250" width="470" height="320" rx="12" fill="#0d2024"/>
-  <text x="140" y="190" fill="#36d8ff" font-size="54" font-family="JetBrains Mono, monospace">DIA RC Dashboard</text>
+  <text x="140" y="190" fill="#36d8ff" font-size="54" font-family="JetBrains Mono, monospace">Numira</text>
   <text x="140" y="345" fill="#9dcfdf" font-size="24" font-family="IBM Plex Sans, sans-serif">KPIs, incidencias y seguimiento operativo</text>
   <text x="140" y="390" fill="#d9fce8" font-size="21" font-family="JetBrains Mono, monospace">React | TS | Tailwind | Postgres</text>
 </svg>
