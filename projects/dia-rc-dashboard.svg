@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" fill="none">
+  <rect width="1200" height="700" fill="#060d0f"/>
+  <rect x="70" y="70" width="1060" height="560" rx="18" fill="#0b1518" stroke="#36d8ff" stroke-opacity="0.5"/>
+  <rect x="110" y="130" width="980" height="90" rx="12" fill="#0d2024"/>
+  <rect x="110" y="250" width="470" height="320" rx="12" fill="#0d2024"/>
+  <rect x="620" y="250" width="470" height="320" rx="12" fill="#0d2024"/>
+  <text x="140" y="190" fill="#36d8ff" font-size="54" font-family="JetBrains Mono, monospace">DIA RC Dashboard</text>
+  <text x="140" y="345" fill="#9dcfdf" font-size="24" font-family="IBM Plex Sans, sans-serif">KPIs, incidencias y seguimiento operativo</text>
+  <text x="140" y="390" fill="#d9fce8" font-size="21" font-family="JetBrains Mono, monospace">React | TS | Tailwind | Postgres</text>
+</svg>

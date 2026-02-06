@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" fill="none">
+  <rect width="1200" height="700" fill="#05080e"/>
+  <rect x="80" y="80" width="1040" height="540" rx="20" fill="#0b1019" stroke="#31f18b" stroke-opacity="0.35"/>
+  <g>
+    <rect x="130" y="150" width="220" height="84" rx="10" fill="#112128"/>
+    <rect x="430" y="150" width="220" height="84" rx="10" fill="#112128"/>
+    <rect x="730" y="150" width="220" height="84" rx="10" fill="#112128"/>
+  </g>
+  <g stroke="#224337" stroke-width="2">
+    <path d="M350 192H430"/>
+    <path d="M650 192H730"/>
+  </g>
+  <text x="140" y="330" fill="#31f18b" font-size="54" font-family="JetBrains Mono, monospace">Ops Automator</text>
+  <text x="140" y="390" fill="#9bc8b0" font-size="25" font-family="IBM Plex Sans, sans-serif">Automatizacion de tareas repetitivas y jobs programados</text>
+  <text x="140" y="470" fill="#d9fce8" font-size="22" font-family="JetBrains Mono, monospace">FastAPI | RQ | SQLAlchemy | Alembic</text>
+</svg>
